@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* fonts */
+@import "./assets/css/font.css";
+
+/* reset */
+@import "./assets/css/reset.css";
+
+/* prism */
+@import "./components/prism/prism.css";
+
+/*  */
+@import "./assets/css/script.css";
